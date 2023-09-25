@@ -12,7 +12,7 @@ This page consists of all the course contents and other related topics of HTML a
 - <https:javascriptcoders.humber>
 - You can find all the necessary details in [Web development 1](https:webdev.humber)
 
-![It's a fun place to code](java-script-log.png)
+![It's a fun place to code](java-script-logo.png)
 
 ### Note:
 Every student must understand and follow **"Academic Integrity"**
